@@ -3,7 +3,7 @@ Tornado Example
 
 This is an example Tornado web app
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/adamar/tornado-example)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/tuergeist/tornado-example)
 
 
 Its built on Tornado 4.1 and uses Twitter's Bootstrap for page layout.
