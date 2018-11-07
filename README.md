@@ -13,6 +13,7 @@ Its built on Tornado 4.1 and uses Twitter's Bootstrap for page layout.
 
 - Page blocks for templating
 - Once click Heroku deploy 
+- Support for Python 3
 
 ## Features To Be Added
 
